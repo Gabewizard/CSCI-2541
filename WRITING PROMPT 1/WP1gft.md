@@ -1,0 +1,9 @@
+# Prompt 1: Communication and Accountability
+
+To prevent information silos, me and my team will use organized communication channels instead of letting important decisions become scattered through direct messages. Discord will be the main program used for daily communication, and will likely have separate channels for things like announcements, develogs, questions, and technical problems. The important decisions should be pinned or added to the Game Design Document so that it is easy to find them later. We can also hold short weekly check-ins where everyone explains what they've completed, what they are currently working on, and any probems they may have blocking their progress.
+
+Tasks can be recorded in Trello or GitHub Issues with a specific owner, deadline, and completion status. This will reduce duplicated work and make everyone's responsibilities visible. When deadlines approach, we can divide large goals into smaller milestones and check progress more frequently. If someone is overwhelmed, they would be encouraged to communicate that early, because the team can then adjust the workload, offer help, or reduce a feature’s scope before the problem becomes an emergency.
+
+Interpersonal conflicts should first be addressed through a calm, private conversation focused on the project rather than personal criticism. If the members cannot resolve the issue, another teammate can serve as a neutral mediator. Serious unresolved problems should be documented and brought to the instructor.
+
+On GitHub, each feature will have its own branch and related issue. Members will make descriptive commits and submit pull requests for review before merging work. We will track code, artwork, writing, testing, documentation, and reviews. GitHub history and assigned tasks will provide evidence that every member contributed fairly.
