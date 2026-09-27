@@ -1,0 +1,7 @@
+# Prompt 2: Architectural Planning vs. Hacking
+
+Before my team starts building the game, we should agree on how its main systems will be organized. It might be faster at first to put player movement, health, and shooting into one large script, but that would make the project harder to work on together. If changing the shooting code also affects health or movement, a teammate may have to understand the entire script just to make one small change.
+
+Tightly connected code also makes integration more difficult. Two members could be working on different features but still need to edit the same part of a file. If their changes overlap, Git may create a merge conflict that we have to resolve before combining their work. Even when the code merges successfully, one change could cause another feature to stop working. Debugging that problem would take longer if several systems are mixed together.
+
+We should give systems like movement, health, and weapons separate responsibilities and decide how they will communicate. This would let members work on different parts of the game with fewer interruptions and make it easier to narrow down where a bug came from. We do not need to plan every line of code before starting, but we should establish enough structure that quick solutions do not create technical debt for the rest of the semester.
